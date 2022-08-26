@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311912, g: 0.3807398, b: 0.3587271, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311918, g: 0.3807398, b: 0.35872716, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -6431,7 +6431,7 @@ GameObject:
   - component: {fileID: 1104782023}
   m_Layer: 0
   m_Name: MesaLab.023
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6449,7 +6449,7 @@ GameObject:
   - component: {fileID: 1104782017}
   m_Layer: 0
   m_Name: MesaLab.024
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6467,7 +6467,7 @@ GameObject:
   - component: {fileID: 1104782075}
   m_Layer: 0
   m_Name: MesaLab.021
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6485,7 +6485,7 @@ GameObject:
   - component: {fileID: 1104782021}
   m_Layer: 0
   m_Name: MesaLab.022
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6503,7 +6503,7 @@ GameObject:
   - component: {fileID: 1104782031}
   m_Layer: 0
   m_Name: MesaLab.027
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6521,7 +6521,7 @@ GameObject:
   - component: {fileID: 1104782025}
   m_Layer: 0
   m_Name: MesaLab.028
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6539,7 +6539,7 @@ GameObject:
   - component: {fileID: 1104782019}
   m_Layer: 0
   m_Name: MesaLab.025
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6557,7 +6557,7 @@ GameObject:
   - component: {fileID: 1104782029}
   m_Layer: 0
   m_Name: MesaLab.026
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6575,7 +6575,7 @@ GameObject:
   - component: {fileID: 1104782039}
   m_Layer: 0
   m_Name: MesaLab.031
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6593,7 +6593,7 @@ GameObject:
   - component: {fileID: 1104782033}
   m_Layer: 0
   m_Name: MesaLab.032
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6611,7 +6611,7 @@ GameObject:
   - component: {fileID: 1104782027}
   m_Layer: 0
   m_Name: MesaLab.029
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6629,7 +6629,7 @@ GameObject:
   - component: {fileID: 1104782037}
   m_Layer: 0
   m_Name: MesaLab.030
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6647,7 +6647,7 @@ GameObject:
   - component: {fileID: 1104782047}
   m_Layer: 0
   m_Name: MesaLab.035
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6665,7 +6665,7 @@ GameObject:
   - component: {fileID: 1104782041}
   m_Layer: 0
   m_Name: MesaLab.036
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6683,7 +6683,7 @@ GameObject:
   - component: {fileID: 1104782035}
   m_Layer: 0
   m_Name: MesaLab.033
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6701,7 +6701,7 @@ GameObject:
   - component: {fileID: 1104782045}
   m_Layer: 0
   m_Name: MesaLab.034
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6933,7 +6933,7 @@ GameObject:
   - component: {fileID: 1104782079}
   m_Layer: 0
   m_Name: MesaLab.019
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6951,7 +6951,7 @@ GameObject:
   - component: {fileID: 1104782073}
   m_Layer: 0
   m_Name: MesaLab.020
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6987,7 +6987,7 @@ GameObject:
   - component: {fileID: 1104782077}
   m_Layer: 0
   m_Name: MesaLab.018
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8185,7 +8185,7 @@ GameObject:
   - component: {fileID: 1104781991}
   m_Layer: 0
   m_Name: MesaLab.039
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8221,7 +8221,7 @@ GameObject:
   - component: {fileID: 1104782043}
   m_Layer: 0
   m_Name: MesaLab.037
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8239,7 +8239,7 @@ GameObject:
   - component: {fileID: 1104781989}
   m_Layer: 0
   m_Name: MesaLab.038
-  m_TagString: Untagged
+  m_TagString: Mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11310,3 +11310,47 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75de62f9478685d4b94ac9d5b3c8e86e, type: 3}
+--- !u!1 &1963768305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1963768307}
+  - component: {fileID: 1963768306}
+  m_Layer: 0
+  m_Name: '[ENCONTRARELEMENTOENARRAY]'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1963768306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963768305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91f4f150e3b286847aaf8b8dd97eb92a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arrayDeMesas: []
+--- !u!4 &1963768307
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963768305}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
